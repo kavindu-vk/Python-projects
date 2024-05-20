@@ -8,7 +8,7 @@ This is a simple Python script that converts text from a file into speech using 
 
 ## Screenshots
 
-![TextToSpeech](image/TE.JPG)
+![TextToSpeech](image/TE.jpg)
 
 
 ### Prerequisites
