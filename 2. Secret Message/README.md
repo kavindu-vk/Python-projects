@@ -6,7 +6,7 @@ Welcome to the Secret Message QR Code Generator! This simple Python script allow
 
 ### Screenshots
 
-![TextToSpeech](covere/secret message.png)
+![TextToSpeech](covere/secret message.PNG)
 
 
 ### Prerequisites
