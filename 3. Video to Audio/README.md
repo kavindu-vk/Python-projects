@@ -6,7 +6,7 @@ This repository contains a Python script that converts video files into audio fi
 
 ### Screenshots
 
-![TextToSpeech](cover/Conver.PNG)
+![VideotoAudio](cover/conver.PNG)
 
 
 ### Prerequisites
