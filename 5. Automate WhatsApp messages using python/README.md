@@ -6,12 +6,6 @@ This repository contains a Python script to automate sending WhatsApp messages u
 
 ![whatsappmessages](cover/cover.png)
 
-### Requirements
-
-- Python 3.x
-- `pyautogui` library
-- `tkinter` library (usually included with Python installations)
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
